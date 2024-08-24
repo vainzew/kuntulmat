@@ -274,10 +274,10 @@ class Tomartod:
 
     def main(self):
         banner = f"""
-    {hijau}Auto Claim {biru}Tomarket_ai
+    {hijau}Auto Claim {biru}Tomarket
     
-    {hijau}By: {putih}t.me/AkasakaID
-    {hijau}GIthub: {putih}@AkasakaID
+    {hijau}By: {putih}t.me/rynalfan
+    {hijau}GIthub: {putih}@vainzew
     
     {hijau}Message: {putih}dont't forget to 'git pull' maybe the script is updated 
     
